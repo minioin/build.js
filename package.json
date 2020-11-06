@@ -1,0 +1,12 @@
+{
+  "name": "build.js",
+  "version": "1.0.0",
+  "description": "Task runner based on javascript files",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "./bin/build.js"
+  },
+  "author": "Minioin <minioin@protonmail.com>",
+  "license": "ISC"
+}
